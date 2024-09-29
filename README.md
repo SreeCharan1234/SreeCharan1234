@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm K Sree Charan</h1>
 <h3 align="center">B.Tech CSE | Intern @ Teachnook | 6+ Hackthon Winners | Data Science Enthusiast | 3⭐ CodeChef | UI/UX | Lifelong Learner</h3>
-![giphy](https://github.com/user-attachments/assets/908b054e-5f66-4a41-850d-97a739cb10e8)
+<img align="right" alt="Coding" width-"400" src="https://cdn.dribbb1e.com/users/1162Ø77/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreecharan1234&label=Profile%20views&color=0e75b6&style=flat" alt="sreecharan1234" /> </p>
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/user-attachments/assets/5c411720-9a32-47ca-8272-09673263725c)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreecharan1234" alt="sreecharan1234" /></a> </p>
 
