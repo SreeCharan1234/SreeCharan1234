@@ -5,8 +5,6 @@
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true) <br>
-
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=bighnesh0007)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
