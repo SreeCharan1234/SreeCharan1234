@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sreecharan9484@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGRvaqlqwI/Hlz8R_HDn6OWBwLry6T2rg/edit?utm_content=DAGRvaqlqwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGRvaqlqwI/Hlz8R_HDn6OWBwLry6T2rg/edit?utm_content=DAGRvaqlqwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 My Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
