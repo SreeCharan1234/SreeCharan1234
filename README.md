@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm K Sree Charan</h1>
 <h3 align="center">B.Tech CSE | Intern @ Teachnook | 6+ Hackthon Winners | Data Science Enthusiast | 3⭐ CodeChef | UI/UX | Lifelong Learner</h3>
+![giphy](https://github.com/user-attachments/assets/908b054e-5f66-4a41-850d-97a739cb10e8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreecharan1234&label=Profile%20views&color=0e75b6&style=flat" alt="sreecharan1234" /> </p>
 
